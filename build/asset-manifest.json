@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d92076d.css",
+    "main.js": "/static/js/main.1c5e539e.js",
+    "static/js/787.4ca3dacb.chunk.js": "/static/js/787.4ca3dacb.chunk.js",
+    "static/media/fullstack.jpg": "/static/media/fullstack.c29adb6209763579f2fd.jpg",
+    "static/media/MyPic.jpg": "/static/media/MyPic.13cfdde1025e70a224f2.jpg",
+    "static/media/Kmart.png": "/static/media/Kmart.0e8b243cd89b250c50f2.png",
+    "static/media/backend.jpg": "/static/media/backend.f5e738a26803f398fc57.jpg",
+    "static/media/frontend.jpg": "/static/media/frontend.13a7db1cc5b882a1840a.jpg",
+    "static/media/itemmanager.jpg": "/static/media/itemmanager.43218c0d3f5907326ebb.jpg",
+    "static/media/Code zone.png": "/static/media/Code zone.287a42e5045235bb81a1.png",
+    "static/media/logo.png": "/static/media/logo.aa3c541d92154e342810.png",
+    "index.html": "/index.html",
+    "main.1d92076d.css.map": "/static/css/main.1d92076d.css.map",
+    "main.1c5e539e.js.map": "/static/js/main.1c5e539e.js.map",
+    "787.4ca3dacb.chunk.js.map": "/static/js/787.4ca3dacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d92076d.css",
+    "static/js/main.1c5e539e.js"
+  ]
+}
